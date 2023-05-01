@@ -3,7 +3,7 @@ spring:
     url: jdbc:h2:mem:testdb
     driver-class-name: org.h2.Driver
     username: sa
-    password: '{cipher}77d6a11e891a8fa32cde833182a5a25306f4d342ac99bc14822f460fd38ff8ce'
+    password: '{cipher}71d9e339947ee4f27b4cd4fa10d0cb612a0f6971a9db0e71919e0d449013b223'
 #    cipher = 암호화 되어진 상태
 
 token:
